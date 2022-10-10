@@ -288,4 +288,35 @@
     .button-links-post button:last-child {
         margin: 0px;
     }
+    .list-partner ul {
+        padding-left: 0px;
+        display: flex;
+        justify-content: center;
+    }
+    .list-partner2 ul {
+        padding-left: 0px;
+        display: flex;
+        justify-content: center;
+    }
+    .list-partner3 ul {
+        padding-left: 0px;
+        display: flex;
+        justify-content: center;
+    }
+    .list-partner ul li {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .list-partner2 ul li {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .list-partner3 ul li {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .container {
+        display: flex;
+        justify-content: center;
+    }
 }
