@@ -3,10 +3,22 @@
     padding: 30px 0;
 }
 
-.container {
+.container1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+.list-partner{
+    width: 400px;
+    padding: 0px;
+}
+.list-partner2{
+    width: 420px;
+    padding: 0px;
+}
+.list-partner3{
+    width: 400px;
+    padding: 0px;
 }
 
 .list-partner ul {
