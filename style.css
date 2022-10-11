@@ -596,7 +596,13 @@ left: -5cm;
         display: none;
     }
 }
-
+@media screen and (max-width: 600px){
+    .logoCmp{
+        display: none;
+        width: 0%;
+        height: 0%;
+    }
+}
 @media screen and (max-width: 400px) {
     .img8.ar {
         display: none;
