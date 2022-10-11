@@ -181,7 +181,7 @@ width: 7cm;
     background: rgb(131,58,180);
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 54%, rgba(252,176,69,1) 100%);
     border-radius: 7px;
- 
+ color: white;
    border:none;
 
 }
@@ -665,7 +665,7 @@ footer .titleLastFooter{
 }
 footer .items{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+    grid-template-columns: 1fr 1fr;
     align-items: center;
     background-color: #000;
     color: #fff;
