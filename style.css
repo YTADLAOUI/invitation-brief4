@@ -391,40 +391,6 @@ left: -5cm;
 }
 
 
-/* .list-partner {
-    width: 100%;
-}
-
-.list-partner ul {
-    display: flex;
-    list-style: none;
-}
-
-.list-partner ul li {
-    width: 15%;
-    height: 40px;
-    margin: 0 20px;
-}
-
-.list-partner ul li img {
-    width: 70%;
-    height: 100%;
-}
-
-.container {
-    width: 1200px;
-    margin: 35px;
-    flex-wrap: wrap;
-} */
-
-
-/*youssef aziz part2*/
-
-
-/* .cash img {
-    width: 1.8rem;
-    height: 1.8rem;
-} */
 
 .vrai {
     width: 1.5rem;
@@ -601,6 +567,18 @@ left: -5cm;
         display: none;
         width: 0%;
         height: 0%;
+        
+    }
+    .prd{
+        display: none;
+        width: 0%;
+        height: 0%;
+    }
+    .get{
+        display: none;
+        width: 0%;
+        height: 0%;
+
     }
 }
 @media screen and (max-width: 400px) {
